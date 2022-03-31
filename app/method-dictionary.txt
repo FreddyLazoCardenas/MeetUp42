@@ -1,0 +1,7 @@
+# A custom method dictonary
+
+blue
+green
+red
+orange
+yellow

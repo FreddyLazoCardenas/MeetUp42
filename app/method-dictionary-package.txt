@@ -1,0 +1,9 @@
+# A custom method dictonary
+
+cat
+dog
+bear
+duck
+turkey
+pig
+rabbit

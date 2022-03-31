@@ -1,0 +1,9 @@
+# A custom method dictonary
+
+apple
+orange
+lemon
+grapes
+banana
+potato
+carrot
